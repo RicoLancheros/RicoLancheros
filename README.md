@@ -1,9 +1,10 @@
 # Hola! Soy Alejandro Rico Lancheros, Desarrollador Backend!. 🦜
 
 
-Perfil Profesional
+Mi perfil:
+
 Desarrollador Backend con 4 años de experiencia total en desarrollo de software, incluyendo 1 año de experiencia laboral formal y más de 3 años desarrollando proyectos autónomos.
-Competencias Técnicas
+Competencias Técnicas y actualmente trabajo en desarollar soluciones orientadas a la Inteligencia Artificial, agentes y modelos.
 
 <h3 align="center">Lenguajes de Programación</h3>
 <p align="center">
