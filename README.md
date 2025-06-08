@@ -6,12 +6,13 @@ Desarrollador Backend con 4 años de experiencia total en desarrollo de software
 Competencias Técnicas
 Lenguajes de Programación:
 
-![Texto alternativo](!)
-), ![JAVA](![image](./assets/Java.png)
-), ![Texto alternativo](![image](https://github.com/user-attachments/assets/4f66c238-08a7-4a07-9ad8-33c849f313ab)
-), ![Texto alternativo](![image](https://github.com/user-attachments/assets/22586401-9c5b-4188-a0dc-a0b305d8e684)
-)
-Java, JavaScript, Python, C#
+![image](https://github.com/user-attachments/assets/16245994-fb0b-4a01-83ea-7f0937a2af43)
+![image](https://github.com/user-attachments/assets/c2d1be60-7eb8-4a9b-b4fb-54bb9180d3eb)
+![image](https://github.com/user-attachments/assets/6962b6ee-60b9-4795-9ae7-e0da2bb789b2)
+![image](https://github.com/user-attachments/assets/a56240ba-d74e-4432-87c6-74bd2eafd095)
+
+
+
 
 Frameworks y Tecnologías:
 
