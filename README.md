@@ -7,7 +7,7 @@ Competencias Técnicas
 
 <h3 align="center">Lenguajes de Programación</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/16245994-fb0b-4a01-83ea-7f0937a2af43" alt="Imagen 1" width="100">
+  <img src="https://github.com/user-attachments/assets/16245994-fb0b-4a01-83ea-7f0937a2af43" alt="Imagen 1" width="70">
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/c2d1be60-7eb8-4a9b-b4fb-54bb9180d3eb" alt="Imagen 2" width="100">
   &nbsp;&nbsp;
@@ -42,7 +42,8 @@ Competencias Técnicas
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/5708b3cd-8e0d-4e7f-8235-655aacfe2330" alt="Herramienta 4" width="100">
 </p>
-Experiencia
+
+<h3 align="center">Experiencia:</h3>
 
 1 año de experiencia profesional en entornos corporativos
 +3 años de desarrollo autónomo y proyectos personales
