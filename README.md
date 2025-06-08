@@ -5,16 +5,18 @@ Perfil Profesional
 Desarrollador Backend con 4 años de experiencia total en desarrollo de software, incluyendo 1 año de experiencia laboral formal y más de 3 años desarrollando proyectos autónomos.
 Competencias Técnicas
 
-<h3 align="center">Lenguajes de Programacion</h1>
-
+<h3 align="center">Lenguajes de Programación</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/16245994-fb0b-4a01-83ea-7f0937a2af43" alt="Imagen 1" width="100">
+  &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/c2d1be60-7eb8-4a9b-b4fb-54bb9180d3eb" alt="Imagen 2" width="100">
+  &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/6962b6ee-60b9-4795-9ae7-e0da2bb789b2" alt="Imagen 3" width="100">
+  &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/a56240ba-d74e-4432-87c6-74bd2eafd095" alt="Imagen 4" width="100">
 </p>
 
-<h3 align="center">Frameworks y Tecnologías:</h3>
+<h3 align="center">Frameworks y Tecnologías</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24adb3b3-a382-4ad0-99a8-06fc93578ae8" alt="Framework 1" width="100">
   &nbsp;&nbsp;
@@ -23,14 +25,14 @@ Competencias Técnicas
   <img src="https://github.com/user-attachments/assets/c995ed6d-6311-4b97-9524-c6e86b8718d0" alt="Framework 3" width="100">
 </p>
 
-<h3 align="center">Bases de Datos:</h3>
+<h3 align="center">Bases de Datos</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ce938a4-298b-4766-b7bd-11c8b77b8897" alt="Base de Datos 1" width="100">
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/1948eb84-c23e-4a9e-8841-57a633cc2882" alt="Base de Datos 2" width="100">
 </p>
 
-<h3 align="center">Herramientas y Tecnologías:</h3>
+<h3 align="center">Herramientas y Tecnologías</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4bd851e6-e998-4b36-8d86-229ad6c3b024" alt="Herramienta 1" width="100">
   &nbsp;&nbsp;
