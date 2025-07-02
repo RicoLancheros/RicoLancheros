@@ -15,7 +15,7 @@ Competencias Técnicas y actualmente trabajo en desarollar soluciones orientadas
   <img src="https://github.com/user-attachments/assets/6962b6ee-60b9-4795-9ae7-e0da2bb789b2" alt="Imagen 3" width="100">
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/a56240ba-d74e-4432-87c6-74bd2eafd095" alt="Imagen 4" width="100">
-  <img src="" alt="Imagen 5" width="100">
+  <img src="https://github.com/RicoLancheros/RicoLancheros/blob/main/assets/go.png" alt="Imagen 5" width="100">
 </p>
 
 <h3 align="center">Frameworks y Tecnologías</h3>
