@@ -15,6 +15,7 @@ Competencias Técnicas y actualmente trabajo en desarollar soluciones orientadas
   <img src="https://github.com/user-attachments/assets/6962b6ee-60b9-4795-9ae7-e0da2bb789b2" alt="Imagen 3" width="100">
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/a56240ba-d74e-4432-87c6-74bd2eafd095" alt="Imagen 4" width="100">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fugeek.github.io%2Fblog%2Fpost%2F2020-08-17-instalar-ultima-version-de-go-en-raspberry-arm-o-amd64.html&psig=AOvVaw1GIWEzURzQi64e2u_b_Z8F&ust=1751517854876000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiBtM6unY4DFQAAAAAdAAAAABAs" alt="Herramienta 4" width="100">
 </p>
 
 <h3 align="center">Frameworks y Tecnologías</h3>
@@ -42,6 +43,8 @@ Competencias Técnicas y actualmente trabajo en desarollar soluciones orientadas
   <img src="https://github.com/user-attachments/assets/fd68e30e-8a17-4b47-8dcd-40aba72d1722" alt="Herramienta 3" width="100">
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/5708b3cd-8e0d-4e7f-8235-655aacfe2330" alt="Herramienta 4" width="100">
+
+
 </p>
 
 <h3 align="center">Experiencia:</h3>
